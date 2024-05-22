@@ -866,6 +866,118 @@
     },
     {
       "type": "file",
+      "filePath": "node_modules/at-least-node/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "9c002b0e9446eff8a384d0a4b1c3494bb49a1e1f"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "a615672edb60fe7e09825aba0828c836e4dd3b82"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/lib/enoent.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "b1260d1da8cdb9402095f6e6c17ebc988d902e70"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/lib/parse.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "d826b1c2a5055f72d1bff135c73276084fcc9588"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/lib/util/escape.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "af9acd46d821f4320b95ba4d515f8c9740f9f824"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/lib/util/readShebang.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "eafe21d805362260c163570b23cc6dda952cca8e"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/lib/util/resolveCommand.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "28c0ec0af1064a1f9bc9e30bd5267e30bf33dd9c"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/cross-spawn/node_modules/semver/semver.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "4b85b5f963842409ab87e7714887d2d7cdd4c727"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/expo-quick-actions/app.plugin.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "c3ac553b8b8786ace54ca6cb8d77f51d36ead19e"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/expo-quick-actions/plugin/build/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "90eba9c696bae28320dca5da6908c0e04c457ad6"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/expo-quick-actions/plugin/build/options.json",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "59fffb9201d5a329053e348d4e9447e621d1897a"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/expo-quick-actions/plugin/build/withAndroidAppIcon.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "5932ec6eb3badefd757fcaed4636a6ba5f8e84e1"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/expo-quick-actions/plugin/build/withIosImageAssets.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "55fdb123e2d57ceb398ad4f61fe6b671fad2f458"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/expo-quick-actions/plugin/build/withIosStaticActions.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "490e91ca543fd3e2fa63117e2f30a61522223fa3"
+    },
+    {
+      "type": "file",
       "filePath": "node_modules/expo-router/app.plugin.js",
       "reasons": [
         "expoConfigPlugins"
@@ -906,6 +1018,30 @@
     },
     {
       "type": "file",
+      "filePath": "node_modules/isexe/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "9348ece80fd6208f0b8740d43cd652db4a5f06e6"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/isexe/mode.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "5f33b53cc6b89f9ebe2ebd1dcfeb434cd96a3192"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/jimp-compact/dist/jimp.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "86e4211f72d6541f8b6f0d22665475623c8c8d45"
+    },
+    {
+      "type": "file",
       "filePath": "node_modules/json-schema-traverse/index.js",
       "reasons": [
         "expoConfigPlugins"
@@ -914,11 +1050,115 @@
     },
     {
       "type": "file",
+      "filePath": "node_modules/jsonfile/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "91c9c57af8bd81ee9a62a5b25797ea32883c15b0"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/jsonfile/node_modules/universalify/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "b89986d9f8a85f0ed20f038ad79a69fcb68a8288"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/jsonfile/utils.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "9fcb3c2e8d7b909360c945cd568cc32fe7cf4596"
+    },
+    {
+      "type": "file",
       "filePath": "node_modules/locate-path/index.js",
       "reasons": [
         "expoConfigPlugins"
       ],
       "hash": "fcab8e3e9cd86cceafd1cf54effdf45508f8e135"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/nice-try/src/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "a8e90b007f2b7c4f244202c1bef4187030dc5e0d"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/lib/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "3a4fde428ba8f0a812b1d59f9b0b786281fb7652"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/tr46/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "02c41eea7eb4ce2d32b7faeb4229edaa28b9d8e4"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/tr46/lib/mappingTable.json",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "6e09dfd1d4d65675bba0a9bb69e0bd6393f0d5da"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/webidl-conversions/lib/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "32a7715cbd092327cb6b40a1ceb0f768c006cfbc"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/whatwg-url/lib/public-api.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "ff500ab0bc64cc68b8925cd6b9d13b5b6240d951"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/whatwg-url/lib/URL-impl.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "c59fc2cbaff55db3419a0f3fc3274cb6215555cb"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/whatwg-url/lib/url-state-machine.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "ab706cff991edca756adc4a00495ded9a7f24e18"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/whatwg-url/lib/URL.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "849eac5a0d7fd731acf0948d18a9ef6cebf10047"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/node-fetch/node_modules/whatwg-url/lib/utils.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "e531f22976a3b992693f328ed7bdd4103d87c08e"
     },
     {
       "type": "file",
@@ -938,11 +1178,203 @@
     },
     {
       "type": "file",
+      "filePath": "node_modules/parse-png/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "2f1c3acbbfd093176bb46cd920f3d56ce7243a97"
+    },
+    {
+      "type": "file",
       "filePath": "node_modules/path-exists/index.js",
       "reasons": [
         "expoConfigPlugins"
       ],
       "hash": "e67614299feaa6105ac0b8acff41fbad72d12215"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/path-key/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "d02870f0bfcfecd00c8e3a776130038f0b80e16d"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/bitmapper.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "291aaaaa3e3c04cb236a75492db902423e754a0d"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/bitpacker.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "7ed851c84a326fd119b82ae63aad3bd83bc4e5c4"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/chunkstream.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "a244fd0cc3cd6b81d39f829d2c6b8fea2188a4c8"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/constants.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "03736523a30bf4decf4170448aa01f9e274be32f"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/crc.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "0c0c88ba1e409be717d05548ffa85309067c4be5"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/filter-pack.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "5cd5d74e78e1c0c7de1a5eee58d1d7473b45a6ab"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/filter-parse-async.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "d15dc803a655baac0a8af93794a3767486d743c8"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/filter-parse-sync.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "fe65ba6a3316aa2dbad87ed4ff45a480795ad9bc"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/filter-parse.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "1f6653a095a6476d32c9c1394abc191b65575bb0"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/format-normaliser.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "12253773689300111964ee8a5c2c57d7c917e76f"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/interlace.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "a4856511361e700acea4bd0287264462b229eba9"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/packer-async.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "3fe266198f090a4130f4ef8cf371cb2fc96d2a06"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/packer-sync.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "b004dd84415f72f396a64550538c9d2c17b509b6"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/packer.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "22133015f4bd4bc7986070d831ae00674a4288cb"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/paeth-predictor.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "ede450ba76cf06f92be55c74301f690662317ae2"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/parser-async.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "974ef21f752be4f722e0d9e2bfd691ad9c960aa3"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/parser-sync.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "e39c585a727f7a9754e27e848771602b7825b907"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/parser.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "ec2a91693f489b0223d0215e6472f9dff3a980f5"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/png-sync.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "7ab25083cc73086821888f0dd64e4eec2555cbc1"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/png.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "64bfe21afba42a3d774655cea6ac8df9a6d87ce6"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/sync-inflate.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "9734df69b3fdfc43cb297654a01ce7ebbcd1b59c"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/pngjs/lib/sync-reader.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "c707120b37f53d149555abe065b12240322f167d"
     },
     {
       "type": "file",
@@ -1010,11 +1442,35 @@
     },
     {
       "type": "file",
+      "filePath": "node_modules/shebang-command/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "25c59d6ad62c334422c52b679e555292e63ba25d"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/shebang-regex/index.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "57f1f40c6554eab1eb40117ddc707f98768da60d"
+    },
+    {
+      "type": "file",
       "filePath": "node_modules/uri-js/dist/es5/uri.all.js",
       "reasons": [
         "expoConfigPlugins"
       ],
       "hash": "a18e1db156a8c451b1deacd6998b76f5ed0c3e3e"
+    },
+    {
+      "type": "file",
+      "filePath": "node_modules/which/which.js",
+      "reasons": [
+        "expoConfigPlugins"
+      ],
+      "hash": "f39455d215c8d397782f1efbc6e52254d0f9a4ab"
     },
     {
       "type": "file",
@@ -1030,7 +1486,7 @@
       "reasons": [
         "bareNativeDir"
       ],
-      "hash": "fb9b69e163c5ca90fc43e638502936c9b086cdf2"
+      "hash": "3a020dbc8da1a720e692bc52d63d99e6c8d3c82f"
     },
     {
       "type": "dir",
@@ -1038,7 +1494,7 @@
       "reasons": [
         "bareNativeDir"
       ],
-      "hash": "0cdb49623c60edfdd5d78ca86a70e50f501b6e1b"
+      "hash": "6f9668a1866d1c16d2e23de9d2c434a2b8fc1e91"
     },
     {
       "type": "dir",
@@ -1507,11 +1963,11 @@
     {
       "type": "contents",
       "id": "expoConfig",
-      "contents": "{\"android\":{\"adaptiveIcon\":{\"backgroundColor\":\"#ffffff\",\"foregroundImage\":\"./assets/images/adaptive-icon.png\"},\"package\":\"com.expo.appjs24workflowsworkshopcodedev\"},\"assetBundlePatterns\":[\"**/*\"],\"experiments\":{\"typedRoutes\":true},\"extra\":{\"eas\":{\"projectId\":\"88f614ca-b325-4e16-b040-f5ef3d6da9f1\"},\"router\":{\"origin\":false}},\"icon\":\"./assets/images/icon.png\",\"ios\":{\"bundleIdentifier\":\"com.expo.appjs24-workflows-workshop-code-dev\",\"supportsTablet\":true},\"name\":\"Art Museum (Dev)\",\"orientation\":\"portrait\",\"owner\":\"ench\",\"platforms\":[\"android\",\"ios\",\"web\"],\"plugins\":[\"react-native-image-marker\",[\"expo-router\"]],\"runtimeVersion\":{\"policy\":\"appVersion\"},\"scheme\":\"myapp\",\"sdkVersion\":\"51.0.0\",\"slug\":\"appjs24-workflows-workshop-code\",\"splash\":{\"backgroundColor\":\"#ffffff\",\"image\":\"./assets/images/splash.png\",\"resizeMode\":\"contain\"},\"updates\":{\"url\":\"https://u.expo.dev/88f614ca-b325-4e16-b040-f5ef3d6da9f1\"},\"userInterfaceStyle\":\"automatic\",\"version\":\"1.0.0\",\"web\":{\"bundler\":\"metro\",\"favicon\":\"./assets/images/favicon.png\"}}",
+      "contents": "{\"android\":{\"adaptiveIcon\":{\"backgroundColor\":\"#ffffff\",\"foregroundImage\":\"./assets/images/adaptive-icon.png\"},\"package\":\"com.expo.appjs24workflowsworkshopcode\"},\"assetBundlePatterns\":[\"**/*\"],\"experiments\":{\"typedRoutes\":true},\"extra\":{\"eas\":{\"projectId\":\"88f614ca-b325-4e16-b040-f5ef3d6da9f1\"},\"router\":{\"origin\":false}},\"icon\":\"./assets/images/icon.png\",\"ios\":{\"bundleIdentifier\":\"com.expo.appjs24-workflows-workshop-code\",\"supportsTablet\":true},\"name\":\"Art Museum\",\"orientation\":\"portrait\",\"owner\":\"ench\",\"platforms\":[\"android\",\"ios\",\"web\"],\"plugins\":[\"react-native-image-marker\",[\"expo-quick-actions\",{\"androidIcons\":{\"fav_icon\":{\"backgroundColor\":\"#29cfc1\",\"foregroundImage\":\"./assets/images/adaptive-icon-fav.png\"}},\"iosIcons\":{\"fav_icon\":\"./assets/images/fav.png\"}}],[\"expo-router\"]],\"runtimeVersion\":{\"policy\":\"appVersion\"},\"scheme\":\"myapp\",\"sdkVersion\":\"51.0.0\",\"slug\":\"appjs24-workflows-workshop-code\",\"splash\":{\"backgroundColor\":\"#ffffff\",\"image\":\"./assets/images/splash.png\",\"resizeMode\":\"contain\"},\"updates\":{\"url\":\"https://u.expo.dev/88f614ca-b325-4e16-b040-f5ef3d6da9f1\"},\"userInterfaceStyle\":\"automatic\",\"version\":\"1.0.0\",\"web\":{\"bundler\":\"metro\",\"favicon\":\"./assets/images/favicon.png\"}}",
       "reasons": [
         "expoConfig"
       ],
-      "hash": "a5cb40ca61ce986a87590c771cc2ff82a45f335c"
+      "hash": "1197d2ca675f39b3795f5aa5e27e6b5fb2c137ae"
     },
     {
       "type": "contents",
@@ -1541,5 +1997,5 @@
       "hash": "3e4a32f987d2e19e415867d819d44a5cb92c7a25"
     }
   ],
-  "hash": "f651de6da9ac7951b369428f2e60d96859a7fa3e"
+  "hash": "48dfe5bfaaaac015dba82945e0efde3b8dae2147"
 }

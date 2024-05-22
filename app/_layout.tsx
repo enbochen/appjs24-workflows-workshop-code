@@ -5,10 +5,12 @@ import { Image } from "expo-image";
 import * as SplashScreen from "expo-splash-screen";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { useEffect } from "react";
-import { View, FlatList, ScrollView } from "react-native";
+import { View, FlatList, ScrollView, Platform } from "react-native";
 import { cssInterop, remapProps } from "nativewind";
 import "../global.css";
 import "react-native-reanimated";
+import * as QuickActions from "expo-quick-actions";
+import { useQuickActionRouting, RouterAction } from "expo-quick-actions/router";
 
 // component interops for nativewind - just need these once
 cssInterop(Image, { className: "style" });
@@ -52,6 +54,27 @@ export default function RootLayout() {
       SplashScreen.hideAsync();
     }
   }, [loaded]);
+
+  useQuickActionRouting();
+
+  useEffect(() => {
+    QuickActions.setItems<RouterAction>([
+      {
+        title: "Visit the museum",
+        subtitle: "Plan your next trip",
+        icon: Platform.OS === "android" ? undefined : "location",
+        id: "0",
+        params: { href: "/visit" },
+      },
+      {
+        title: "Favorites",
+        subtitle: "Your must-see exhibits",
+        icon: "fav_icon",
+        id: "1",
+        params: { href: "/two" },
+      },
+    ]);
+  }, []);
 
   if (!loaded) {
     return null;
