@@ -5,6 +5,7 @@ import { Image } from "expo-image";
 import { useWorkByIdQuery } from "@/data/hooks/useWorkByIdQuery";
 import { LoadingShade } from "@/components/LoadingShade";
 import * as Sharing from "expo-sharing";
+import ImagePicker from "react-native-image-crop-picker";
 
 
 export default function ShareWork() {
@@ -14,6 +15,15 @@ export default function ShareWork() {
 
   async function share() {
     await Sharing.shareAsync(work.images.web.url);
+  }
+
+  async function crop() {
+    const image = await ImagePicker.openCropper({
+      path: work.images.web.url,
+      width: 300,
+      height: 300,
+      mediaType: "photo",
+    });
   }
 
   return (
@@ -41,6 +51,7 @@ export default function ShareWork() {
             transition={500}
           />
         </View>
+        <RoundButton onPress={crop} title="Crop" />
         <RoundButton
           title="Share"
           onPress={() => {
